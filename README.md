@@ -28,6 +28,5 @@ If you have a not official device, check devices.mk files to create your own
 optimization for your specific device
 
 ## What do I need to run crux-arm-release?
-You need a CRUX host and just two dependencies installed:
+You need a CRUX host running the last version (not the one we want to release) and this dependencies:
 - git: needed to get ports collections
-- texinfo: needed to build binutils documentation
